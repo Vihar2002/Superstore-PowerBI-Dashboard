@@ -75,5 +75,5 @@ Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
 ---
 
 ## 👤 Author
-**Your Name**
-[LinkedIn](#) • [GitHub](#)
+**Vihar Yeole**
+[LinkedIn]([#](https://www.linkedin.com/in/viharyeole/)) • [GitHub]([#](https://github.com/Vihar2002))
